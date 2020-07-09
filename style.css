@@ -86,6 +86,10 @@
     color: white;
     line-height: 1;
 }
+.nav-link:hover{
+    font-size: 18px;
+    
+}
 footer{
     height: auto;
     background-color: #413960 ;
